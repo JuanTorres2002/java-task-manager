@@ -1,0 +1,4 @@
+target/
+tasks.txt
+.idea/
+*.iml
